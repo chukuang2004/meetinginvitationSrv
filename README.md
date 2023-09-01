@@ -7,8 +7,6 @@ The backend of WeChat Mini Program, the business scenario is the production and 
 This repo relies on the following third-party projects:
 
 - In production:
-  - [gorilla/websocket](https://github.com/gorilla/websocket)
-  - [gRPC](https://google.golang.org/grpc)
   - log                [logrus](https://github.com/sirupsen/logrus)
   - command line tools [urfave/cli](https://github.com/urfave/cli)
   - web framework      [gin](https://github.com/gin-gonic/gin)
